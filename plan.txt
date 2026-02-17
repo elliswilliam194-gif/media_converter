@@ -1,0 +1,7 @@
+scan input directory
+identify fial type
+run through converter, seperut cocument
+set to 1080p resolution
+asess imige quolity
+upscail if less than 1080p
+save in arcive fial strucher
